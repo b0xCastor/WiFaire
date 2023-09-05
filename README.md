@@ -20,4 +20,5 @@ Do : <br>  pip install tkinter <br>
 ![image](https://github.com/b0xCastor/WiFaire/assets/144159132/7394b754-7d45-4dae-9682-da428ab31311)
 
 __Once opened, you will be able to scan: SSID, MAC Address, Signal Strength, Quality and Channel.__
+__this software was made in python and 100% open source. So you can modify and correct it.__
 
