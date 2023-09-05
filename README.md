@@ -2,7 +2,7 @@
 
   __How to use the file :__
 
-Do :  pip install tkinter
+Do :  pip install tkinter <br>
       pip install tk
       pip install wifi
       pip install os
