@@ -10,6 +10,11 @@ Do : <br>  pip install tkinter <br>
       pip install colorama <br>
 
       __Or__
+      
+      
+      
+      
+      
       <hr>
 
       
