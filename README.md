@@ -3,11 +3,11 @@
   __How to use the file :__
 
 Do :  pip install tkinter <br>
-      pip install tk
-      pip install wifi
-      pip install os
-      pip install base64
-      pip install colorama
+      pip install tk <br>
+      pip install wifi <br>
+      pip install os <br>
+      pip install base64 <br>
+      pip install colorama <br>
       <hr>
 
       
