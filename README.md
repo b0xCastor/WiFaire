@@ -14,5 +14,5 @@ Do : <br>  pip install tkinter <br>
       ![image](https://github.com/b0xCastor/WiFaire/assets/144159132/54b473c4-d4ed-4f3c-acb0-bd124c67a713)
 <hr>      
 
-    ![image](https://github.com/b0xCastor/WiFaire/assets/144159132/fd995248-e91c-4133-be78-025abef245ba)
+  ![image](https://github.com/b0xCastor/WiFaire/assets/144159132/fd995248-e91c-4133-be78-025abef245ba)
 
